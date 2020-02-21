@@ -1,0 +1,10 @@
+html, body {
+	font-family: "Open Sans";
+}
+body {
+	width: 500px;
+	margin: 0 auto;
+}
+div#root > div {
+	margin-bottom: 16px;
+}
